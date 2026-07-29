@@ -1,8 +1,10 @@
 We have created a free tool to convert PrestaShop data into WooCommerce-compatible format.
 You can use this tool to convert your Products, Customers, and Orders data into files that are ready to import into WooCommerce / WordPress.
 Once converted, you can simply upload the new data files to WooCommerce using the WebToffee Import Export plugin.
-Please see the code and complete guide below.
 
+Please see the detailed instructions at:
+
+Please see the code and complete guide below.
 
 **Step 1 — Install Python (one-time setup)**
 
